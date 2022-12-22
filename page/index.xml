@@ -2,33 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Yizheng&#39;s Blog</title>
-        <link>https://yizheng.he.github.io/page/</link>
+        <link>https://he-yizheng.github.io/page/</link>
         <description>Recent content in Pages on Yizheng&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yizheng.he.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://he-yizheng.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://yizheng.he.github.io/archives/</link>
+        <link>https://he-yizheng.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://yizheng.he.github.io/archives/</guid>
+        <guid>https://he-yizheng.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://yizheng.he.github.io/about/</link>
+        <link>https://he-yizheng.github.io/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://yizheng.he.github.io/about/</guid>
-        <description>&lt;p&gt;Unfinished&lt;/p&gt;
+        <guid>https://he-yizheng.github.io/about/</guid>
+        <description>&lt;h3 id=&#34;为何创建这个博客&#34;&gt;为何创建这个博客&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;现代人总是不得不把自己割裂成好几个部分，存放在互联网的各个角落。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;简而言之，博客的存在便是为自己再增加多一个“存放”自己的平台，去填补现有的空缺。&lt;/p&gt;
+&lt;p&gt;一方面，这样一个网站可以提供一个自己可控的文章保存环境。从小到大，自己一直有偶尔写一点文字废品的习惯，虽然效果不好，但主要还是悦己为主。现今，这些文章散落各处，而时过境迁，可能有一些平台将要关闭了。若不找一个可靠的方式存放，以前的文章逐渐散失是必然的。&lt;/p&gt;
+&lt;p&gt;另一方面，自己对现有的平台并不满意。微信朋友圈中显然并不适合再发认真的长文章，因为大家更难在快节奏的翻阅中认真阅读；知乎则不适合发过于贴近现实的东西；同时，严格的审查制度使得微信公众号排除在选项之外。这个时候，自建博客可能是相对更好的选择。&lt;/p&gt;
+&lt;p&gt;对自己来说，博客主要供记录自己以及分享平台使用。就记录而言，自己能保留所有本地文件而博客就相当于一个云端备份；在分享方面，博客可以提供一个相对严肃的阅读环境。目前打算把大部分有价值的产出转移到这边。尽管写的不好，但也算是对自己的记录。&lt;/p&gt;
+&lt;h3 id=&#34;分类介绍&#34;&gt;分类介绍&lt;/h3&gt;
+&lt;p&gt;现有分类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;真空中的球形国度：杂文存放处&lt;/li&gt;
+&lt;li&gt;蘑菇的拟态日常：个人生活记录相关&lt;/li&gt;
+&lt;li&gt;猫头鹰的终末旅行：旅行相关&lt;/li&gt;
+&lt;li&gt;高考：高考笔记/相关&lt;/li&gt;
+&lt;li&gt;音乐评论：如题&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://yizheng.he.github.io/links/</link>
+        <link>https://he-yizheng.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://yizheng.he.github.io/links/</guid>
+        <guid>https://he-yizheng.github.io/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -60,10 +76,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>https://yizheng.he.github.io/search/</link>
+        <link>https://he-yizheng.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://yizheng.he.github.io/search/</guid>
+        <guid>https://he-yizheng.github.io/search/</guid>
         <description></description>
         </item>
         
