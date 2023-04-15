@@ -2,24 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://he-yizheng.github.io/en/sitemap.xml</loc>
+    <loc>yi-zheng.he.github.io/en/sitemap.xml</loc>
     
-<<<<<<< HEAD
       <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-=======
-      <lastmod>2021-12-31T00:00:00+00:00</lastmod>
->>>>>>> parent of 5f7c13b (2022.23.31)
     
   </sitemap>
   
   <sitemap>
-    <loc>https://he-yizheng.github.io/zh-cn/sitemap.xml</loc>
+    <loc>yi-zheng.he.github.io/zh-cn/sitemap.xml</loc>
     
-<<<<<<< HEAD
       <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-=======
-      <lastmod>2021-12-31T00:00:00+00:00</lastmod>
->>>>>>> parent of 5f7c13b (2022.23.31)
     
   </sitemap>
   
