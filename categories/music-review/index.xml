@@ -2,6 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Music-Review on Yizheng&#39;s Blog</title>
+<<<<<<< HEAD
+        <link>https://he-yizheng.github.io/categories/music-review/</link>
+        <description>Recent content in Music-Review on Yizheng&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://he-yizheng.github.io/categories/music-review/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Zutomayo</title>
+        <link>https://he-yizheng.github.io/p/zutomayo/</link>
+        <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://he-yizheng.github.io/p/zutomayo/</guid>
+        <description>&lt;img src="https://he-yizheng.github.io/p/zutomayo/Zutomayo.jpg" alt="Featured image of post Zutomayo" /&gt;&lt;h1 id=&#34;zutomayo&#34;&gt;Zutomayo&lt;/h1&gt;
+=======
         <link>he-yizheng.github.io/categories/music-review/</link>
         <description>Recent content in Music-Review on Yizheng&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
@@ -13,6 +26,7 @@
         
         <guid>he-yizheng.github.io/p/zutomayo/</guid>
         <description>&lt;img src="/he-yizheng.github.io/p/zutomayo/Zutomayo.jpg" alt="Featured image of post Zutomayo" /&gt;&lt;h1 id=&#34;zutomayo&#34;&gt;Zutomayo&lt;/h1&gt;
+>>>>>>> Master
 &lt;p&gt;　　好久没有写过乐评了，上次写已经是几年前了。考完试决定重操旧业写下乐评好了。&lt;/p&gt;
 &lt;p&gt;　　如果你不太了解真夜中，或者只是粗浅了解，可以看看他们最近的live。&lt;/p&gt;
 &lt;h2 id=&#34;ずっと真夜中でいいのに富有神秘感的起源&#34;&gt;ずっと真夜中でいいのに。富有神秘感的起源。&lt;/h2&gt;

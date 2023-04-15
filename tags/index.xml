@@ -2,6 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Yizheng&#39;s Blog</title>
+<<<<<<< HEAD
+        <link>https://he-yizheng.github.io/tags/</link>
+        <description>Recent content in Tags on Yizheng&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://he-yizheng.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Japan Music</title>
+        <link>https://he-yizheng.github.io/tags/japan-music/</link>
+        <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://he-yizheng.github.io/tags/japan-music/</guid>
+=======
         <link>he-yizheng.github.io/tags/</link>
         <description>Recent content in Tags on Yizheng&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
@@ -12,6 +24,7 @@
         <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
         
         <guid>he-yizheng.github.io/tags/japan-music/</guid>
+>>>>>>> Master
         <description></description>
         </item>
         

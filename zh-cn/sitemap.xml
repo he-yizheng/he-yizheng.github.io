@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
+    <loc>https://he-yizheng.github.io/zh-cn/</loc>
+=======
     <loc>he-yizheng.github.io/zh-cn/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -81,184 +84,394 @@
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/p/2021%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9/</loc>
+>>>>>>> Master
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/"
+=======
                 href="he-yizheng.github.io/p/annual-review-of-2021/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/p/2021%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9/</loc>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://he-yizheng.github.io/p/annual-review-of-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://he-yizheng.github.io/zh-cn/p/2021%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/categories/</loc>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://he-yizheng.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://he-yizheng.github.io/zh-cn/categories/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/post/</loc>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://he-yizheng.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://he-yizheng.github.io/zh-cn/post/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/categories/essay/</loc>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://he-yizheng.github.io/categories/essay/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://he-yizheng.github.io/zh-cn/categories/essay/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/p/17th-birthday/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/p/2021%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/p/17th-birthday/</loc>
+>>>>>>> Master
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/p/17th-birthday/"
+=======
                 href="he-yizheng.github.io/p/17th-birthday/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/p/17th-birthday/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/categories/gaokao/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/p/17th-birthday/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/categories/gaokao/</loc>
+>>>>>>> Master
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/categories/gaokao/"
+=======
                 href="he-yizheng.github.io/categories/gaokao/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/categories/gaokao/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/p/%E9%AB%98%E8%80%83%E7%8E%B0%E4%BB%A3%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/categories/gaokao/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/p/%E9%AB%98%E8%80%83%E7%8E%B0%E4%BB%A3%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
+>>>>>>> Master
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/p/%E9%AB%98%E8%80%83%E7%8E%B0%E4%BB%A3%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"
+=======
                 href="he-yizheng.github.io/p/%E9%AB%98%E8%80%83%E7%8E%B0%E4%BB%A3%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/p/%E9%AB%98%E8%80%83%E7%8E%B0%E4%BB%A3%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/tags/japan-music/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/p/%E9%AB%98%E8%80%83%E7%8E%B0%E4%BB%A3%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/tags/japan-music/</loc>
+>>>>>>> Master
     <lastmod>2021-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/tags/japan-music/"
+=======
                 href="he-yizheng.github.io/tags/japan-music/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/tags/japan-music/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/tags/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/tags/japan-music/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/tags/</loc>
+>>>>>>> Master
     <lastmod>2021-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/tags/"
+=======
                 href="he-yizheng.github.io/tags/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/tags/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/p/zutomayo/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/tags/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/p/zutomayo/</loc>
+>>>>>>> Master
     <lastmod>2021-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/p/zutomayo/"
+=======
                 href="he-yizheng.github.io/p/zutomayo/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/p/zutomayo/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/categories/music-review/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/p/zutomayo/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/categories/music-review/</loc>
+>>>>>>> Master
     <lastmod>2021-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/categories/music-review/"
+=======
                 href="he-yizheng.github.io/categories/music-review/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/categories/music-review/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/p/%E8%BF%AB%E8%BF%91%E7%9A%84%E5%B7%A8%E7%9F%B3%E5%94%AF%E4%B8%80%E7%9A%84%E8%AF%BA%E4%BA%9A%E6%96%B9%E8%88%9F/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/categories/music-review/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/p/%E8%BF%AB%E8%BF%91%E7%9A%84%E5%B7%A8%E7%9F%B3%E5%94%AF%E4%B8%80%E7%9A%84%E8%AF%BA%E4%BA%9A%E6%96%B9%E8%88%9F/</loc>
+>>>>>>> Master
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/p/rolling-rock-down-a-hill/"
+=======
                 href="he-yizheng.github.io/p/rolling-rock-down-a-hill/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/p/%E8%BF%AB%E8%BF%91%E7%9A%84%E5%B7%A8%E7%9F%B3%E5%94%AF%E4%B8%80%E7%9A%84%E8%AF%BA%E4%BA%9A%E6%96%B9%E8%88%9F/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/p/%E6%B8%B8%E6%B3%B3%E6%B1%A0/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/p/%E8%BF%AB%E8%BF%91%E7%9A%84%E5%B7%A8%E7%9F%B3%E5%94%AF%E4%B8%80%E7%9A%84%E8%AF%BA%E4%BA%9A%E6%96%B9%E8%88%9F/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/p/%E6%B8%B8%E6%B3%B3%E6%B1%A0/</loc>
+>>>>>>> Master
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/p/swimming-pool/"
+=======
                 href="he-yizheng.github.io/p/swimming-pool/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/p/%E6%B8%B8%E6%B3%B3%E6%B1%A0/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/p/%E9%AB%98%E4%B8%AD%E6%91%B8%E9%B1%BC%E5%AD%A6%E5%AF%BC%E8%AE%BA/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/p/%E6%B8%B8%E6%B3%B3%E6%B1%A0/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/p/%E9%AB%98%E4%B8%AD%E6%91%B8%E9%B1%BC%E5%AD%A6%E5%AF%BC%E8%AE%BA/</loc>
+>>>>>>> Master
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/p/studying-in-chinese-system-high-school/"
+=======
                 href="he-yizheng.github.io/p/studying-in-chinese-system-high-school/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/p/%E9%AB%98%E4%B8%AD%E6%91%B8%E9%B1%BC%E5%AD%A6%E5%AF%BC%E8%AE%BA/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/page/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/p/%E9%AB%98%E4%B8%AD%E6%91%B8%E9%B1%BC%E5%AD%A6%E5%AF%BC%E8%AE%BA/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/page/</loc>
+>>>>>>> Master
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/page/"
+=======
                 href="he-yizheng.github.io/page/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/page/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/page/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+>>>>>>> Master
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/about/"
+=======
                 href="he-yizheng.github.io/about/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/archives/</loc>
+=======
                 href="he-yizheng.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
     <loc>he-yizheng.github.io/zh-cn/archives/</loc>
+>>>>>>> Master
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/archives/"
+=======
                 href="he-yizheng.github.io/archives/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/archives/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://he-yizheng.github.io/search/"
+=======
                 href="he-yizheng.github.io/zh-cn/archives/"
                 />
   </url><url>
@@ -267,10 +480,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="he-yizheng.github.io/search/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/search/"
+                />
+  </url><url>
+    <loc>https://he-yizheng.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://he-yizheng.github.io/links/"
+=======
                 href="he-yizheng.github.io/zh-cn/search/"
                 />
   </url><url>
@@ -279,11 +503,16 @@
                 rel="alternate"
                 hreflang="en"
                 href="he-yizheng.github.io/links/"
+>>>>>>> Master
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
+                href="https://he-yizheng.github.io/zh-cn/%E9%93%BE%E6%8E%A5/"
+=======
                 href="he-yizheng.github.io/zh-cn/%E9%93%BE%E6%8E%A5/"
+>>>>>>> Master
                 />
   </url>
 </urlset>
