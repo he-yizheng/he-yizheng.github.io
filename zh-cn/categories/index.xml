@@ -2,33 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on 正儿八经的烧卖</title>
-        <link>https://he-yizng.github.io/zh-cn/categories/</link>
+        <link>https://he-yizheng.github.io/zh-cn/categories/</link>
         <description>Recent content in Categories on 正儿八经的烧卖</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
+<<<<<<< HEAD
         <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://he-yizng.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>真空中的球形国度</title>
         <link>https://he-yizng.github.io/zh-cn/categories/essay/</link>
         <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+=======
+        <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://he-yizheng.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>真空中的球形国度</title>
+        <link>https://he-yizheng.github.io/zh-cn/categories/essay/</link>
+        <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+>>>>>>> parent of 5f7c13b (2022.23.31)
         
-        <guid>https://he-yizng.github.io/zh-cn/categories/essay/</guid>
-        <description>&lt;img src="https://he-yizng.github.io/zh-cn/categories/essay/essay.jpg" alt="Featured image of post 真空中的球形国度" /&gt;</description>
+        <guid>https://he-yizheng.github.io/zh-cn/categories/essay/</guid>
+        <description>&lt;img src="https://he-yizheng.github.io/zh-cn/categories/essay/essay.jpg" alt="Featured image of post 真空中的球形国度" /&gt;</description>
         </item>
         <item>
         <title>高考</title>
-        <link>https://he-yizng.github.io/zh-cn/categories/gaokao/</link>
+        <link>https://he-yizheng.github.io/zh-cn/categories/gaokao/</link>
         <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://he-yizng.github.io/zh-cn/categories/gaokao/</guid>
-        <description>&lt;img src="https://he-yizng.github.io/zh-cn/categories/gaokao/gaokao.jpg" alt="Featured image of post 高考" /&gt;</description>
+        <guid>https://he-yizheng.github.io/zh-cn/categories/gaokao/</guid>
+        <description>&lt;img src="https://he-yizheng.github.io/zh-cn/categories/gaokao/gaokao.jpg" alt="Featured image of post 高考" /&gt;</description>
         </item>
         <item>
         <title>音乐评论</title>
-        <link>https://he-yizng.github.io/zh-cn/categories/music-review/</link>
+        <link>https://he-yizheng.github.io/zh-cn/categories/music-review/</link>
         <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://he-yizng.github.io/zh-cn/categories/music-review/</guid>
-        <description>&lt;img src="https://he-yizng.github.io/zh-cn/categories/music-review/94009366_p0.jpg" alt="Featured image of post 音乐评论" /&gt;</description>
+        <guid>https://he-yizheng.github.io/zh-cn/categories/music-review/</guid>
+        <description>&lt;img src="https://he-yizheng.github.io/zh-cn/categories/music-review/94009366_p0.jpg" alt="Featured image of post 音乐评论" /&gt;</description>
         </item>
         
     </channel>
