@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Yizheng&#39;s Blog</title>
+<<<<<<< HEAD
         <link>https://he-yizheng.github.io/page/</link>
         <description>Recent content in Pages on Yizheng&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
@@ -12,14 +13,33 @@
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
         <guid>https://he-yizheng.github.io/archives/</guid>
+=======
+        <link>he-yizheng.github.io/page/</link>
+        <description>Recent content in Pages on Yizheng&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="he-yizheng.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>he-yizheng.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>he-yizheng.github.io/archives/</guid>
+>>>>>>> Master
         <description></description>
         </item>
         <item>
         <title>About</title>
+<<<<<<< HEAD
         <link>https://he-yizheng.github.io/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
         <guid>https://he-yizheng.github.io/about/</guid>
+=======
+        <link>he-yizheng.github.io/about/</link>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>he-yizheng.github.io/about/</guid>
+>>>>>>> Master
         <description>&lt;h3 id=&#34;为何创建这个博客&#34;&gt;为何创建这个博客&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;现代人总是不得不把自己割裂成好几个部分，存放在互联网的各个角落。&lt;/p&gt;
@@ -41,10 +61,17 @@
         </item>
         <item>
         <title>Links</title>
+<<<<<<< HEAD
         <link>https://he-yizheng.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://he-yizheng.github.io/links/</guid>
+=======
+        <link>he-yizheng.github.io/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>he-yizheng.github.io/links/</guid>
+>>>>>>> Master
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -76,10 +103,17 @@
         </item>
         <item>
         <title>Search</title>
+<<<<<<< HEAD
         <link>https://he-yizheng.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://he-yizheng.github.io/search/</guid>
+=======
+        <link>he-yizheng.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>he-yizheng.github.io/search/</guid>
+>>>>>>> Master
         <description></description>
         </item>
         
